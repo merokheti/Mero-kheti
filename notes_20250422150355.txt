@@ -1,0 +1,85 @@
+04.22 3:02 pm
+<!DOCTYPE html>
+<html lang="ne">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>मेरो खेती</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f9f0;
+    }
+    header {
+      background-color: #4CAF50;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      background-color: #388E3C;
+      padding: 10px;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+    main {
+      padding: 20px;
+    }
+    .card {
+      background-color: white;
+      padding: 15px;
+      margin: 10px 0;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    footer {
+      background-color: #4CAF50;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>मेरो खेती</h1>
+    <p>नेपाली किसानहरूका लागि ज्ञानको स्रोत</p>
+  </header>
+
+  <nav>
+    <a href="#">गृहपृष्ठ</a>
+    <a href="#">खेती ज्ञान</a>
+    <a href="#">सम्पर्क</a>
+  </nav>
+
+  <main>
+    <div class="card">
+      <h2>धान खेती गर्ने तरिका</h2>
+      <p>धान खेतीका लागि राम्रो माटो, समयमै सिचाइ र मल चाहिन्छ। बीउ छर्ने तरिका र रोपाइँको समय बारे जान्न यहाँ क्लिक गर्नुहोस्।</p>
+    </div>
+
+    <div class="card">
+      <h2>अर्ग्यानिक तरकारी उत्पादन</h2>
+      <p>रासायनिक मल बिना पनि राम्रो उत्पादन लिन सकिन्छ। गोबर मल, कम्पोस्ट र जैविक प्रविधिको प्रयोग गरौं।</p>
+    </div>
+
+    <div class="card">
+      <h2>आजको कृषि सल्लाह</h2>
+      <p>आजको मौसम: घाम लाग्ने सम्भावना। मल हाल्न उपयुक्त समय।</p>
+    </div>
+  </main>
+
+  <footer>
+    <p>© 2025 मेरो खेती | सम्पर्क: 9807741470</p>
+  </footer>
+</body>
+</html>
+
